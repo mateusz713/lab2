@@ -1,0 +1,1 @@
+select LastName, Region from Employees where Region is null
